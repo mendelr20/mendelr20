@@ -1,4 +1,4 @@
-# Hi, I'm Claire! :wave: 
+# Hi, I'm mendel! :wave: 
 
 Full-Stack Software Engineer primarily using React/Redux and Ruby on Rails 
 Full-Stack Software Engineer primarily using React and Ruby on Rails 
