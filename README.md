@@ -3,9 +3,9 @@
 <!-- Full-Stack Software Engineer primarily using React/Redux and Ruby on Rails 
 Full-Stack Software Engineer primarily using React and Ruby on Rails  -->
 
-## Projects 
+<!-- ## Projects 
 
-<!-- **💌 Send-It** [Repo](https://github.com/clogan1/send-it) | [Live Site](https://send-it-cards.herokuapp.com/)
+**💌 Send-It** [Repo](https://github.com/clogan1/send-it) | [Live Site](https://send-it-cards.herokuapp.com/)
 Virtual card app that allows multiple users to send a greeting card with custom messages via email. (React/Redux & Rails)
 **🏋️ Workout Buddy** [Repo](https://github.com/clogan1/workout-buddy) | [Live Site](https://workout-buddy-2021.herokuapp.com/)
 Fitness tracking app that allows users to set goals, track workouts, and monitor progress against hitting their goals. (React & Rails)
@@ -18,7 +18,7 @@ Single-page application that allows a user to search and see information about T
   
 ## Contact Me :mailbox:
 <p>
-  <a href="https://www.linkedin.com/in/clairelogan1/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/mendel-rosenblum/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
   <a href="mailto:rosenblummm@gmail.com" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" height="30" width="30" /></a>
  </p>
  
