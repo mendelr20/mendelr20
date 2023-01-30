@@ -18,7 +18,7 @@ Single-page application that allows a user to search and see information about T
   
 ## Contact Me :mailbox:
 <p>
-  <a href="https://www.linkedin.com/in/mendel-rosenblum/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
+<!--   <a href="https://www.linkedin.com/in/mendel-rosenblum/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a> -->
   <a href="mailto:rosenblummm@gmail.com" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" height="30" width="30" /></a>
  </p>
  
