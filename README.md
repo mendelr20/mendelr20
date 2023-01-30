@@ -1,11 +1,11 @@
-# Hi, I'm mendel! :wave: 
+# Hi, I'm Mendel! :wave: 
 
-Full-Stack Software Engineer primarily using React/Redux and Ruby on Rails 
-Full-Stack Software Engineer primarily using React and Ruby on Rails 
+<!-- Full-Stack Software Engineer primarily using React/Redux and Ruby on Rails 
+Full-Stack Software Engineer primarily using React and Ruby on Rails  -->
 
 ## Projects 
 
-**💌 Send-It** [Repo](https://github.com/clogan1/send-it) | [Live Site](https://send-it-cards.herokuapp.com/)
+<!-- **💌 Send-It** [Repo](https://github.com/clogan1/send-it) | [Live Site](https://send-it-cards.herokuapp.com/)
 Virtual card app that allows multiple users to send a greeting card with custom messages via email. (React/Redux & Rails)
 **🏋️ Workout Buddy** [Repo](https://github.com/clogan1/workout-buddy) | [Live Site](https://workout-buddy-2021.herokuapp.com/)
 Fitness tracking app that allows users to set goals, track workouts, and monitor progress against hitting their goals. (React & Rails)
@@ -14,7 +14,7 @@ Social media site where lovers of reality TV shows can engage in discussion and 
 **🛒 DunderList** [Repo](https://github.com/clogan1/DunderList) 
 Online marketplace where users can buy and sell items. (React & JSONServer)
 **📺 TVInfo** [Repo](https://github.com/clogan1/TVInfo)
-Single-page application that allows a user to search and see information about TV shows and actors, and provide comments and ratings. (Vanilla Javascript & JSONServer)
+Single-page application that allows a user to search and see information about TV shows and actors, and provide comments and ratings. (Vanilla Javascript & JSONServer) -->
   
 ## Contact Me :mailbox:
 <p>
