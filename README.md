@@ -25,7 +25,7 @@ Single-page application that allows a user to search and see information about T
  <br />
  &emsp;
  
- 
+<!--  
 ## Skills :computer:
 ### Languages
 <p align="left">
@@ -61,7 +61,7 @@ Single-page application that allows a user to search and see information about T
 </p>
 <br />
 &emsp;
-
+ -->
 ### Hi there 👋
 
 <!--
