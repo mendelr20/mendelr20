@@ -25,7 +25,7 @@ Single-page application that allows a user to search and see information about T
  <br />
  &emsp;
  
-<!--  
+ 
 ## Skills :computer:
 ### Languages
 <p align="left">
@@ -61,9 +61,9 @@ Single-page application that allows a user to search and see information about T
 </p>
 <br />
 &emsp;
- -->
-### Hi there 👋
 
+<!-- ### Hi there 👋
+ -->
 <!--
 **mendelr20/mendelr20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
