@@ -5,7 +5,7 @@ Full-Stack Software Engineer primarily using React and Ruby on Rails
 
 ## Projects 
 
-**📝🚑🩺Trauma Talks** [Repo](https://github.com/mendelr20/phase-5-project) | [Live Site](https://send-it-cards.herokuapp.com/)
+**📝🚑🩺Trauma Talks** [Repo](https://github.com/mendelr20/phase-5-project) | [Live Site](https://traumatalks.onrender.com/)
 Trauma Talks is a medical blog primarly focused on emergency medcine. Users can create a account, login, create a post and assign it to a category,  and update, edit or delete posts that belongs to them, as well as create, update and edit and delete reviews on any post (React & Rails)
 
 <br />
