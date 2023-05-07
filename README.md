@@ -68,10 +68,14 @@ Single-page application that allows a user to search and see information about M
 </br>
 
 ### My Github Stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=mendelr20&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+![Mendel's github stats](https://github-readme-stats.vercel.app/api?username=mendelr20&show_icons=true&&theme=dark&hide=issues&count_private=true&include_all_commits=true)
+
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendelr20&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendelr20&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
 </br>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mendelr20&theme=dark)](https://git.io/streak-stats)
 
 <!-- ### Stats
