@@ -74,6 +74,10 @@ Single-page application that allows a user to search and see information about M
 </br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mendelr20&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendelr20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ### Other
  <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" align="left" width="40" height="40"/>
