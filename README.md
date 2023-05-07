@@ -53,9 +53,7 @@ Single-page application that allows a user to search and see information about M
  
  
  <p align="left">
-  <img src="https://i.imgur.com/rTNkWSQ.png" alt="react" align="left" width="40" height="40"/>
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" align="left" width="40" height="40"/> -->
-<!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="mui" align="left" width="40" height="40"/> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="rails" align="left" width="40" height="40"/>
 </p>
 </br>
