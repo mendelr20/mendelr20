@@ -68,7 +68,7 @@ Single-page application that allows a user to search and see information about M
 </br>
 
 
-
+### Stats
 [![Mendel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendelr20&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ### Other
  <p align="left">
