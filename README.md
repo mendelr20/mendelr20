@@ -66,6 +66,10 @@ Single-page application that allows a user to search and see information about M
 </p>
 </br>
 </br>
+
+### Stat Cards
+
+[![Mendel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendelr20)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ### Other
  <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" align="left" width="40" height="40"/>
