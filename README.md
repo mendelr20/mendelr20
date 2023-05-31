@@ -1,7 +1,7 @@
 # Hi, I'm Mendel! :wave: 
 
 <!-- Full-Stack Software Engineer primarily using React/Redux and Ruby on Rails  -->
-Full-Stack Software Engineer primarily using React and Ruby on Rails 
+Full-Stack Software Engineer primarily using Javascript, React and Ruby on Rails 
 
 ## Projects 
 
