@@ -1,4 +1,5 @@
 # Hi, I'm Mendel! :wave: 
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gruppo&size=25&pause=1000&width=435&lines=Hi,+I'm+Mendel!+I+am+glad+you're+here+%F0%9F%98%8A)](https://git.io/typing-svg) -->
 
 <!-- Full-Stack Software Engineer primarily using React/Redux and Ruby on Rails  -->
 Full-Stack Software Engineer primarily using Javascript, React and Ruby on Rails 
