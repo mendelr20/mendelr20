@@ -16,7 +16,7 @@ The application allows users to browse and filter through a comprehensive list o
 
 <br />
 
-** 📚📺 Entertainment Tracker** [Repo](https://github.com/mendelr20/phase-3-project-frontend) 
+**📚📺 Entertainment Tracker** [Repo](https://github.com/mendelr20/phase-3-project-frontend) 
 Entertainment Tracker where you can create a new book, which includes fields for the title, series name (if applicable), an author selection from a list, or the option to add a new author, notes, and a checkbox that indicates if the book has been read. (React & Ruby)
 
 <br />
